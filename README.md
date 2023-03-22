@@ -20,7 +20,7 @@ const carlos = {
     code: ["C#", "Java", "C++", "Javascript", "HTML", "CSS"],
     askMeAbout: ["Web Dev", "Tech", "Photography"],
     technologies: {
-        backEnd: {
+        backend: {
             C#: [".NET Core", ".NET Framework"],
             Java: ["Spring Boot"],
         },
