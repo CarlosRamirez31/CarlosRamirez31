@@ -28,7 +28,7 @@ const carlos = {
         tools: ["VsCode", "Visual Studio", "Intellij", "Postman", "Git"],
     },
     architecture: ["Onion Architecture", "Clean Architecture"],
-    funFact: "Coding will soon be as important as reading"
+    funFact: "Coding will soon be as important as reading",
     challenge: "I want to further expand my knowledge in the world of programming and be a good programmer"
 };
 ```
