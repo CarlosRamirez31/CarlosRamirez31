@@ -1,15 +1,34 @@
-### Hi, I'm Carlos Ramirez. <img src="src/gif/giphy1.gif" width="40px" height="35">
+<h2>I'm Carlos Ramirez! <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Backend Developer <img src="https://media.giphy.com/media/JdyQWFOVo6s5G/giphy.gif" width="50"> 
+</em></p>
 
-<hr style='height: 1px;'>
+[![Twitter Follow](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlos_rn31)
+[![Linkedin: Carlos Ramirez](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-manuel-ramirez-nova-765709248/)
 
-### Backend Developer. <img src="src/gif/giphy.gif" width="60px"><br>
+### 👾 Summary
 
-<p>
-I'm a backend developer with knowledge of Api Rest, Crud's, ATM and Database Management and above all with a desire to grow.
-</p>
+I'm a backend developer with knowledge of Api Rest, Crud's, ATM and Database Management and above all with a desire to grow...
 
-<img src="src/img/README.png" target="_blanck">
+I also have a few stories knowledge in the frontend area.
 
-<h2> Contacts:</h2>  <a href = "mailto:cr2503150@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-manuel-ramirez-nova-765709248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const carlos = {
+    pronouns: "He" | "His",
+    code: ["C#", "Java", "C++", "Javascript", "HTML", "CSS"],
+    askMeAbout: ["Web Dev", "Tech", "Photography"],
+    technologies: {
+        backEnd: {
+            C#: [".NET Core", ".NET Framework"],
+            Java: ["Spring Boot"],
+        },
+        databases: ["MySql", "SqlServer"],
+        tools: ["VsCode", "Visual Studio", "Intellij", "Postman", "Git"],
+    },
+    architecture: ["Onion Architecture", "Clean Architecture"],
+    funFact: "Coding will soon be as important as reading"
+    challenge: "I want to further expand my knowledge in the world of programming and be a good programmer"
+};
+```
