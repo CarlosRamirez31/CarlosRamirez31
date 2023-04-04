@@ -8,9 +8,7 @@
 
 ### 👾 Summary
 
-I'm a backend developer with knowledge of Api Rest, Crud's, ATM and Database Management and above all with a desire to grow...
-
-I also have a few stories knowledge in the frontend area.
+I am a backend developer with experience in REST APIs, CRUD operations, ATM, database management, clean architecture, and design patterns. I am also knowledgeable in frontend development. I enjoy working collaboratively with teams and am a self-motivated autodidact, always striving to learn and stay up to date with the latest technologies.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
