@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlos_rn31)
-[![Linkedin: Carlos Ramirez](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-manuel-ramirez-nova-765709248/)
+[![Linkedin: Carlos Ramirez](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosmanuelramireznova/)
 
 ### 👾 Summary
 
