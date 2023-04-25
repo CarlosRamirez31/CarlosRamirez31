@@ -25,7 +25,7 @@ const carlos = {
         databases: ["MySql", "SqlServer"],
         tools: ["VsCode", "Visual Studio", "Intellij", "Postman", "Git"],
     },
-    architecture: ["Onion Architecture", "Clean Architecture"],
+    architecture: ["Onion Architecture", "Vertical Slice Architecture", "Clean Architecture"],
     funFact: "Coding will soon be as important as reading",
     challenge: "I want to further expand my knowledge in the world of programming and be a good programmer"
 };
