@@ -8,8 +8,7 @@
 
 ### 👾 Summary
 
-I am a backend developer with experience in REST APIs, CRUD operations, ATM, database management, clean architecture, and design patterns. I am also knowledgeable in frontend development. I enjoy working collaboratively with teams and am a self-motivated autodidact, always striving to learn and stay up to date with the latest technologies.
-
+I'm a backend developer experienced in crafting REST APIs, handling CRUD operations, orchestrating database management, implementing clean architecture, and weaving in design patterns. My expertise extends to frontend development as well. I relish collaborative teamwork and possess a self-propelled passion for self-learning, consistently chasing the newest technologies to stay in the loop.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
