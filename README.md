@@ -21,6 +21,9 @@ const carlos = {
             C#: [".NET Core", ".NET Framework"],
             Java: ["Spring Boot"],
         },
+        frontend: {
+            Javascript: ["Vue"]
+        },
         databases: ["MySql", "SqlServer"],
         tools: ["VsCode", "Visual Studio", "Intellij", "Postman", "Git"],
     },
