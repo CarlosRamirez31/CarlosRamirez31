@@ -22,7 +22,7 @@ const carlos = {
             Java: ["Spring Boot"],
         },
         frontend: {
-            Javascript: ["Vue"],
+            Javascript: ["Vue.js"],
         },
         databases: ["MySql", "SqlServer"],
         tools: ["VsCode", "Visual Studio", "Intellij", "Postman", "Git"],
