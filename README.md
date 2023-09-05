@@ -14,12 +14,11 @@ I'm a backend developer experienced in crafting REST APIs, handling CRUD operati
 ```javascript
 const carlos = {
     pronouns: "He" | "His",
-    code: ["C#", "Java", "C++", "JavaScript", "TypeScript" , "HTML", "CSS"],
+    code: ["C#", "Java", "C++", "JavaScript", "HTML", "CSS"],
     askMeAbout: ["Web Dev", "Tech", "Photography"],
     technologies: {
         backend: {
             C#: [".NET Core", ".NET Framework"],
-            Java: ["Spring Boot"],
         },
         frontend: {
             Javascript: ["Vue.js"],
@@ -34,8 +33,6 @@ const carlos = {
 ```
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
-[![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/CarlosRamirez31/CarlosRamirez31)
