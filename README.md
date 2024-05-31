@@ -14,7 +14,7 @@ I'm a backend developer experienced in crafting REST APIs, handling CRUD operati
 ```javascript
 const carlos = {
     pronouns: "He" | "His",
-    code: ["C#", "Java", "C++", 'Dart', 'Rust', "JavaScript", 'TypeScript', "HTML", "CSS"],
+    code: ["C#", "C++", 'Rust', 'Dart', "JavaScript", 'TypeScript', "HTML", "CSS"],
     askMeAbout: ["Web Dev", "Tech", "Photography"],
     technologies: {
         backend: {
