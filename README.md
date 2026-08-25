@@ -17,7 +17,6 @@ const carlos = {
     pronouns: ["He", "Him"],
     languages: ["C#", "Dart", "JavaScript", "TypeScript"],
     askMeAbout: [ "Mobile Development", "Backend Development", "Software Architecture", "Tech", "Photography"],
-
     technologies: {
         backend: {
             "C#": [".NET", ".NET Core", ".NET Framework", "ASP.NET Core"],
