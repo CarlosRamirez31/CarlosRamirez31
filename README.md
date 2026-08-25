@@ -1,6 +1,6 @@
 <h2>I'm Carlos Ramirez! <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Backend Developer <img src="https://media.giphy.com/media/JdyQWFOVo6s5G/giphy.gif" width="50"> 
+<p><em>Backend Developer And Mobile Developer <img src="https://media.giphy.com/media/JdyQWFOVo6s5G/giphy.gif" width="50"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlos_rn31)
@@ -13,30 +13,32 @@ I'm a backend developer experienced in crafting REST APIs, handling CRUD operati
 
 ```javascript
 const carlos = {
-    pronouns: "He" | "His",
-    code: ["C#", "C++", 'Rust', 'Dart', "JavaScript", 'TypeScript', "HTML", "CSS"],
-    askMeAbout: ["Web Dev", "Tech", "Photography"],
+    role: ["Mobile Developer", "Backend Developer"],
+    pronouns: ["He", "Him"],
+    languages: ["C#", "Dart", "JavaScript", "TypeScript"],
+    askMeAbout: [ "Mobile Development", "Backend Development", "Software Architecture", "Tech", "Photography"],
+
     technologies: {
         backend: {
-            C#: [".NET Core", ".NET Framework"],
+            "C#": [".NET", ".NET Core", ".NET Framework", "ASP.NET Core"],
         },
-        frontend: {
-            Javascript: ["Vue.js"],
+        mobile: {
+            Dart: ["Flutter"],
+            TypeScript: ["React Native"],
         },
-        databases: ["MySql", "SqlServer"],
-        tools: ["VsCode", "Visual Studio", "Intellij", "Postman", "Git"],
+        databases: ["MySQL", "SQL Server"],
+        tools: [ "Visual Studio", "VS Code", "IntelliJ IDEA", "Postman", "Git" ],
     },
-    architecture: ["Onion Architecture", "Vertical Slice Architecture", "Clean Architecture"],
-    funFact: "Coding will soon be as important as reading",
-    challenge: "I want to further expand my knowledge in the world of programming and be a good programmer"
+    architecture: [ "Clean Architecture", "Onion Architecture","Vertical Slice Architecture"],
+    currentFocus: "Building scalable mobile applications and robust backend systems",
+    funFact: "Coding will soon be as important as reading.",
+    challenge: "Continuously expanding my knowledge to become a better software developer.",
 };
 ```
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/CarlosRamirez31/CarlosRamirez31)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/CarlosRamirez31/CarlosRamirez31)
